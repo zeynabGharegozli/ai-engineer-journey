@@ -1,2 +1,2 @@
-# 🚀 AI Engineer Journey
-
+# ai-engineer-journey
+مسیر یادگیری من از پایتون تا مهندسی هوش مصنوعی

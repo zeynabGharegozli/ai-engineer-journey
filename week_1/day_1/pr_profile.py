@@ -1,0 +1,16 @@
+name=(input("enter name:"))
+sen=(input("enter sen:"))
+reshte=(input("enter reshte:"))
+daneshghah=(input("enter daneshghah:"))
+shahr=(input("enter shahr:"))
+
+print("=" * 40)
+print("profile user")
+print("=" * 40)
+print(f'name:{name}')
+print(f'sen:{sen}')
+print(f'reshteh:{reshte}')
+print(f'daneshgah:{daneshghah}')
+print(f'shahr:{shahr}')
+
+print("=" * 40)
